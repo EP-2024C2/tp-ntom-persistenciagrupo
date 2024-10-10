@@ -26,13 +26,13 @@ Este proyecto contiene una API de gestión de productos. A continuación, se det
 
 1. Inicia la API:
     ```bash
-    npm start
+    npm dev
     ```
 2. La API estará disponible en `http://localhost:3000`.
 
 ## Scripts Disponibles
 
-- `npm run dev`: Inicia la API en modo de desarrollo con recarga automática.
+- `npm dev`: Inicia la API en modo de desarrollo con recarga automática.
 
 ## DER
 
