@@ -1,7 +1,7 @@
 {
   "name": "tp-ntom",
   "version": "1.0.0",
-  "description": "Trabajo Practico M to N - -Grupo xxxxxxxxx",
+  "description": "Trabajo Practico M to N - -Grupo persistenciagrupo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "association",
     "MTON"
   ],
-  "author": "Grupo xxxxxxxxx",
+  "author": "Grupo persistenciagrupo",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^3.1.7",
